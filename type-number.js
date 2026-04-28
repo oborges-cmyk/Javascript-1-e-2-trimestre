@@ -23,9 +23,4 @@ const NovaOperacao = primeiroNumero / numeroPontoFlutuante;
  const alura = "Alura";
  console.log(alura*primeiroNumero)
 
-
-
-
-
-
 //testa com: 'node "nome do arquivo"'

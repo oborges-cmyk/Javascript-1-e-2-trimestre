@@ -9,3 +9,5 @@ const meuNome="Leonardo";
 // concatenação (+)//
 
 console.log(citação+meuNome);
+
+//testa com: 'node "nome do arquivo"'
