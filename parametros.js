@@ -18,7 +18,7 @@ function nomeIdade(nome, idade) {
 
 // console.log(nomeIdade("Juliana", 40))
 
-function soma(numero1, numero2) {
+function soma(numero1=7, numero2=2) {
     return numero1 + numero2;
 }
 
@@ -26,5 +26,5 @@ function multiplica(numero1 = 1, numero2 = 1) {
     return numero1 * numero2;
 }
 
-                                                      //9
-console.log(multiplica(soma(4, 5)))
+                              //9
+console.log(multiplica(soma(4, 5, 5, 5)))
