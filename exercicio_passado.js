@@ -2,7 +2,6 @@
         var nome=window.prompt ("Qual é o nome do livro?")
         window.alert('concluído)
         window.prompt ('Qual é o ano de publicação?')
-        window.alert ('concluído')
         window.confirm ("Cadastro concluído")
 
     </script>

@@ -2,7 +2,7 @@
 //true -> verdadeiro
 //true -> falso
 
-const  primeiroNumero = 5;
+const primeiroNumero = 5;
 const segundoNumero = 5;
 let cadastroAtivado = false;
 
