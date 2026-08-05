@@ -11,4 +11,4 @@ console.log(arrayConcatenado); // Saída: [1, 2, 3, 4, 5, 6]
 const array3 = [7, 8, 9];
 const array4 = [10, 11, 12];
 
-const arrayConcatenadoA
+const arrayConcatenadoSpread

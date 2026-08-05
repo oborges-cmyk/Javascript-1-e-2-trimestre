@@ -36,6 +36,8 @@ function calculaMedia(notasDoAluno) {
   return soma / notasDoAluno.length;
 }
 
+//feito por IA abaixo
+
 //i significa índice
 
 function exibirMediaAlunos(alunos, notas) {
