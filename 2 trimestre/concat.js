@@ -11,4 +11,6 @@ console.log(arrayConcatenado); // Saída: [1, 2, 3, 4, 5, 6]
 const array3 = [7, 8, 9];
 const array4 = [10, 11, 12];
 
-const arrayConcatenadoSpread
+// Usando o operador spread para concatenar arrays
+const arrayConcatenadoSpread = [...array3, ...array4];
+console.log(arrayConcatenadoSpread); // Saída: [7, 8, 9, 10, 11, 12]

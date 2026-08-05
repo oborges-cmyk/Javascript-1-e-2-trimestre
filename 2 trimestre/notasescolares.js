@@ -1,4 +1,4 @@
-//Calculadora de médias/Sistema de notas escolares simples
+//Calculadora de Médias/Sistema de notas escolares simples
 //Enunciado: se hipotéticamente, temos 3 alunos com 3 notas respectivas, para sabermos se ele passou ou não calculamos a média números/total de algarismos
 
 //Notas dos alunos
